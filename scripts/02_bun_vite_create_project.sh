@@ -14,3 +14,6 @@ bunx tailwindcss init -p
 
 # Настраиваем环境ные переменные
 cp .env.example .env
+
+#---- была проблема для `bun run build`
+bun add -D terser

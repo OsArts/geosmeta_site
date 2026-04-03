@@ -87,4 +87,8 @@ Learn more about bun test: https://bun.com/docs/cli/test
 husky - pre-commit script failed (code 1)
 ```
 
+> 14:23 "husky": "^9.1.7", `package.json` (временно удалил)
+
+> 18:10 удалил "hono": "^4.12.10",
+
 ---
